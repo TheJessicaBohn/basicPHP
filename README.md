@@ -8,3 +8,4 @@ Repositório seguindo as vídeo aulas do Curso em Video encontrado no link https
   - Para startar o seu servidor do EasyPHP apache siga o tutorial https://www.youtube.com/watch?v=HWUHDjnL2pw
   - '//' e '#' são comentarios inline
   - /* tudo o que esta dentro disso é um comentario multiline */
+  - os códigos chamados surpresa são exercicios que não se mostra o código e portanto o core dele é feito por mim
