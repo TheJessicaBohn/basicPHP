@@ -1,5 +1,5 @@
 # basicPHP
-Repositório seguindo as vídeo aulas do Curso em Video encontrado no link https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ
+Repositório seguindo as vídeo aulas do Curso em Video encontrado no link https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ, porém com algumas modificações;
 
 - ## Dowloads
   easyPHP https://www.easyphp.org/, e Visual Studio Code https://code.visualstudio.com/,  recomendo mais que o PHPSTORM que é pago depois de 30 dias
